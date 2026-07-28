@@ -19,9 +19,11 @@ and last.
   their job so a machine runs lighter, faster, better
 - **Bridge the gap between silicon and code** — whichever side of the wire
   the problem is on, I can meet it there
+- **Clear the runway before the moment that matters** — step aside
+  everything that isn't needed, then put it all back exactly as it was
 
-One publicly visible piece of that: **[gaming-optimizer](https://github.com/AizoTech-uz/gaming-optimizer)**.
-The rest lives in private repos, built for people who needed it built.
+Most of what I build lives in private repos, made for people who needed it
+made.
 
 #### Stack
 
