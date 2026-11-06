@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots">
 </p>
 
 <p align="center">
@@ -20,8 +19,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Computer_Vision-2f81f7?style=for-the-badge" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/AI_Assistants-a371f7?style=for-the-badge" alt="AI Assistants">
 </p>
 
 ---
@@ -34,11 +31,9 @@ I'm a software developer and 3D artist. I like building the point where hardware
 
 ## What I build
 
-- **Access and identity:** face recognition for doors and entry points, so access is automatic instead of manual
+- **Access and identity:** entry systems for doors and gates, so access is automatic instead of manual
 - **Connected buildings and sites:** gates, scales, and shop-floor equipment working together as one system
 - **Websites:** modern, multilingual websites with clean UI/UX and brand design
-- **Chat and community tools:** Telegram bots and the services behind them
-- **AI assistants:** tools that use AI to help people get things done, built with AI-assisted development
 - **Quiet background software:** Windows services and tools that do their job without getting in the way
 - **3D, games, and apps:** models and real-time scenes in Blender, 3ds Max, Unity, and Unreal Engine, plus game and app design
 
@@ -62,8 +57,7 @@ The code will be published once the first working version is ready.
 | --- | --- |
 | Languages | C#, Python, C++ |
 | Web | Web development, multilingual websites, UI/UX and brand design |
-| Platforms | .NET, Windows Services, Telegram Bot API |
-| Systems | Computer Vision, Systems Integration |
-| AI | AI assistants, AI-assisted development |
+| Platforms | .NET, Windows Services |
+| Systems | Systems Integration |
 | 3D and games | Blender, 3ds Max, Unity, Unreal Engine, game and app design |
 | Tools | Git, GitHub |
