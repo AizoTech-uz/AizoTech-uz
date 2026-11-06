@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
 <p align="center">
@@ -17,6 +19,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
@@ -33,21 +36,25 @@ I'm a software developer and 3D artist. I like building the point where hardware
 
 - **Access and identity:** entry systems for doors and gates, so access is automatic instead of manual
 - **Connected buildings and sites:** gates, scales, and shop-floor equipment working together as one system
-- **Websites:** modern, multilingual websites with clean UI/UX and brand design
+- **Websites and web apps:** multilingual websites and real-time apps with clean UI/UX and brand design
 - **Quiet background software:** Windows services and tools that do their job without getting in the way
 - **3D, games, and apps:** models and real-time scenes in Blender, 3ds Max, Unity, and Unreal Engine, plus game and app design
 
 ---
 
-## Now building
+## Projects
+
+### [Chess Human Bot](https://github.com/AizoTech-uz/chess-human-bot)
+
+A chess opponent that plays like a person instead of a raw engine. It uses Maia neural networks, trained on millions of human games, running on the lc0 engine inside Docker. It has Chess.com-style move-quality labels, human-like thinking time and occasional mistakes that scale with the level, a real chess clock, and a UI in Uzbek, Russian, and English. It also opens in one click with GitHub Codespaces, so there's nothing to install.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-live-blue?style=flat-square)
 
 ### [Tessera](https://github.com/AizoTech-uz/Tessera)
 
-A free, open source quad remesher for Blender, built from scratch in Python and C++. It turns dense, messy meshes into clean, mostly-quad topology with good edge flow.
+A free, open source quad remesher for Blender, built from scratch in Python and C++. It turns dense, messy meshes into clean, mostly-quad topology with good edge flow. It's in the planning stage, and the code will be published once the first working version is ready.
 
 ![Status](https://img.shields.io/badge/status-planning-yellow?style=flat-square) ![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-The code will be published once the first working version is ready.
 
 ---
 
@@ -55,12 +62,12 @@ The code will be published once the first working version is ready.
 
 | Area | Tools |
 | --- | --- |
-| Languages | C#, Python, C++ |
-| Web | Web development, multilingual websites, UI/UX and brand design |
+| Languages | C#, Python, C++, JavaScript |
+| Web | Node.js, Express, WebSocket, multilingual websites, UI/UX and brand design |
 | Platforms | .NET, Windows Services |
 | Systems | Systems Integration |
 | 3D and games | Blender, 3ds Max, Unity, Unreal Engine, game and app design |
-| Tools | Git, GitHub |
+| Tools | Docker, Git, GitHub |
 
 ---
 
