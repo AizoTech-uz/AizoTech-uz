@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Computer_Vision-2f81f7?style=for-the-badge" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/AI_Assistants-a371f7?style=for-the-badge" alt="AI Assistants">
+</p>
+
 ---
 
 ## About
@@ -29,9 +36,11 @@ I'm a software developer and 3D artist. I like building the point where hardware
 
 - **Access and identity:** face recognition for doors and entry points, so access is automatic instead of manual
 - **Connected buildings and sites:** gates, scales, and shop-floor equipment working together as one system
+- **Websites:** modern, multilingual websites with clean UI/UX and brand design
 - **Chat and community tools:** Telegram bots and the services behind them
+- **AI assistants:** tools that use AI to help people get things done, built with AI-assisted development
 - **Quiet background software:** Windows services and tools that do their job without getting in the way
-- **3D and real-time:** models and scenes in Blender, 3ds Max, Unity, and Unreal Engine
+- **3D, games, and apps:** models and real-time scenes in Blender, 3ds Max, Unity, and Unreal Engine, plus game and app design
 
 ---
 
@@ -52,6 +61,9 @@ The code will be published once the first working version is ready.
 | Area | Tools |
 | --- | --- |
 | Languages | C#, Python, C++ |
+| Web | Web development, multilingual websites, UI/UX and brand design |
 | Platforms | .NET, Windows Services, Telegram Bot API |
 | Systems | Computer Vision, Systems Integration |
-| 3D | Blender, 3ds Max, Unity, Unreal Engine |
+| AI | AI assistants, AI-assisted development |
+| 3D and games | Blender, 3ds Max, Unity, Unreal Engine, game and app design |
+| Tools | Git, GitHub |
