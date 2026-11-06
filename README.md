@@ -61,3 +61,11 @@ The code will be published once the first working version is ready.
 | Systems | Systems Integration |
 | 3D and games | Blender, 3ds Max, Unity, Unreal Engine, game and app design |
 | Tools | Git, GitHub |
+
+---
+
+## Connect
+
+<a href="https://www.instagram.com/aizo.tech">
+  <img src="https://img.shields.io/badge/Instagram-@aizo.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
