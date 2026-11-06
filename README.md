@@ -8,7 +8,7 @@ I'm a software developer and 3D artist, and I build open source projects. I like
 
 ## What I build
 
-- **Open source tools:** free software for the community, starting with Tessera for Blender
+- **Open source tools:** free software for the community
 - **Access and identity:** entry systems for doors and gates, so access is automatic instead of manual
 - **Connected buildings and sites:** gates, scales, and shop-floor equipment working together as one system
 - **Websites and web apps:** multilingual websites and real-time apps with clean UI/UX
@@ -21,9 +21,9 @@ I'm a software developer and 3D artist, and I build open source projects. I like
 A chess opponent that plays like a person instead of a raw engine. It uses Maia neural networks running on the lc0 engine in Docker, with move-quality labels, human-like timing and mistakes, and a UI in Uzbek, Russian, and English.
 `JavaScript` `Node.js` `Docker`
 
-**[Tessera](https://github.com/AizoTech-uz/Tessera)**
-A free, open source quad remesher for Blender, built from scratch. It is in the planning stage, and the code will be published once the first version works.
-`Python` `C++` `GPL-3.0`
+**Tessera**
+A free, open source quad remesher for Blender, built from scratch. It's in development and will go public once the first version works.
+`Python` `C++`
 
 ## Skills
 
