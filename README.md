@@ -4,10 +4,11 @@
 
 ## About
 
-I'm a software developer and 3D artist. I like building the point where hardware and software meet: things that run, connect, and last. Most of what I build lives in private repos, made for the people who needed it.
+I'm a software developer and 3D artist, and I build open source projects. I like building the point where hardware and software meet: things that run, connect, and last. Some of my work is free and open for everyone, and the rest lives in private repos, made for the people who needed it.
 
 ## What I build
 
+- **Open source tools:** free software for the community, starting with Tessera for Blender
 - **Access and identity:** entry systems for doors and gates, so access is automatic instead of manual
 - **Connected buildings and sites:** gates, scales, and shop-floor equipment working together as one system
 - **Websites and web apps:** multilingual websites and real-time apps with clean UI/UX
